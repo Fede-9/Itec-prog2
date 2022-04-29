@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+
+
+
+*{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+}
+
+.primera-caja {
+
+    margin: 80px ;
+    display: flex;
+    /* justify-content: center; */
+}
+
+.primera-tarjeta{
+    width: 500px;
+    height: 200px;
+    margin: 50px;
+    margin-bottom: 200px;
+    justify-content: center;
+    text-align: left;
+}
+
+
+.encabezado{
+    text-align: center;
+    /* margin: auto; */
+
+}
+
+.mensiones{
+    text-align: center;
+    margin: 40px;
+    font-size: 40px ;
+}
+
+.segunda-caja{
+    margin: 80px;
+    display: flex;
+    
+}
+
+.segunda-tarjeta{
+    justify-content: center;
+    width: max-content;
+    margin: 20px;
+    box-shadow: 7px 4px 10px 0px rgba(0,0,0,0.7);
+
+}
+

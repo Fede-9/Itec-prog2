@@ -1,0 +1,17 @@
+
+.texto-verde{
+    color: green;
+}
+
+.texto-rojo{
+    color: red;
+}
+
+#caja{
+    color: red;
+    background: yellow;
+    font-size: 10px;
+    padding: 20px;
+
+}
+

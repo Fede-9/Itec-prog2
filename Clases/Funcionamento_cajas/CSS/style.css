@@ -1,0 +1,16 @@
+div{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    color: black;
+    font-size: 30px;
+}
+
+.caja{
+    position: absolute;
+    top:o;
+    bottom:0 ;
+    right: 0;
+    left: 200px;
+}
+

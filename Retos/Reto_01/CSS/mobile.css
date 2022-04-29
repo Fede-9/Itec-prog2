@@ -1,0 +1,23 @@
+@media (max-width: 600px) {
+
+    .primera-caja{
+      flex-direction:column;
+      height: auto;
+    }
+    .primera-tarjeta{
+      margin-top: auto;
+    }
+
+    .encabezado{
+      margin: auto;
+    }
+
+    .mensiones{
+      padding: 4%;
+    }
+    .segunda-caja, .segunda-tarjeta{
+      flex-direction:column;
+    }
+  
+  
+  }
